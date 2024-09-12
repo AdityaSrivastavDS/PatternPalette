@@ -1,3 +1,19 @@
+Metadata-Version: 2.1
+Name: PatternPalette
+Version: 0.1
+Summary: A Python package for generating various patterns.
+Author: Aditya Srivastav
+Author-email: adityathestar2006@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
 # PatternPalette
 
 `PatternPalette` is a Python package for generating a variety of patterns, including star patterns, number patterns, grid patterns, and more. It provides an easy-to-use interface for creating these patterns, which can be useful for educational purposes, graphical representations, or just for fun.
