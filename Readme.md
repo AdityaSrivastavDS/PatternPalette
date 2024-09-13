@@ -2,13 +2,6 @@
 
 `PatternPalette` is a Python package for generating a variety of patterns, including star patterns, number patterns, grid patterns, and more. It provides an easy-to-use interface for creating these patterns, which can be useful for educational purposes, graphical representations, or just for fun.
 
-## Installation
-
-You can install `PatternPalette` from PyPI using pip:
-
-```bash
-pip install PatternPalette
-
 ## Features
 
 - **Star Pattern**: Generates a symmetrical star pattern.
@@ -30,20 +23,29 @@ pip install PatternPalette
 from pattern_palette import PatternPalette
 
 # Generate various patterns
-PatternPalette.star_pattern(5)
-PatternPalette.number_pattern(5)
-PatternPalette.grid_pattern(4, 5)
-PatternPalette.pyramid_pattern(5)
-PatternPalette.inverted_pyramid_pattern(5)
-PatternPalette.diamond_pattern(5)
-PatternPalette.right_angle_triangle_pattern(5)
-PatternPalette.hollow_square_pattern(5)
-PatternPalette.fibonacci_pattern(10)
-PatternPalette.number_pyramid_pattern(5)
-PatternPalette.hollow_diamond_pattern(5)
+- PatternPalette.star_pattern(5)
+- PatternPalette.number_pattern(5)
+- PatternPalette.grid_pattern(4, 5)
+- PatternPalette.pyramid_pattern(5)
+- PatternPalette.inverted_pyramid_pattern(5)
+- PatternPalette.diamond_pattern(5)
+- PatternPalette.right_angle_triangle_pattern(5)
+- PatternPalette.hollow_square_pattern(5)
+- PatternPalette.fibonacci_pattern(10)
+- PatternPalette.number_pyramid_pattern(5)
+- PatternPalette.hollow_diamond_pattern(5)
 
 
 
 ## Open Source Repository Link
 https://github.com/AdityaSrivastavDS/PatternPalette
+
+
+## Installation
+
+You can install `PatternPalette` from PyPI using pip:
+
+```bash
+pip install PatternPalette
+
 
