@@ -3,3 +3,5 @@ PatternPalette.egg-info/PKG-INFO
 PatternPalette.egg-info/SOURCES.txt
 PatternPalette.egg-info/dependency_links.txt
 PatternPalette.egg-info/top_level.txt
+pattern_palette/PatternPalette.py
+pattern_palette/__init__.py

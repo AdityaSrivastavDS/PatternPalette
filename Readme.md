@@ -25,7 +25,9 @@ pip install PatternPalette
 
 
 ## Usage
-from PatternPalette import PatternPalette
+
+# Generate various patterns
+from pattern_palette import PatternPalette
 
 # Generate various patterns
 PatternPalette.star_pattern(5)
@@ -39,6 +41,7 @@ PatternPalette.hollow_square_pattern(5)
 PatternPalette.fibonacci_pattern(10)
 PatternPalette.number_pyramid_pattern(5)
 PatternPalette.hollow_diamond_pattern(5)
+
 
 
 ## Open Source Repository Link
